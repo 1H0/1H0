@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Lukas 👨‍💻
 
-![github stats](https://github-readme-stats.vercel.app/api?username=1H0)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1H0)
+![github stats](https://github-readme-stats.vercel.app/api?username=1H0&count_private=true&show_icons=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1H0&langs_count=5)
 
 <!--
 **1H0/1H0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
