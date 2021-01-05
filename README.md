@@ -18,6 +18,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Stats
+
+[![Years Badge](https://badges.pufler.dev/years/1H0)](https://github.com/1H0/)
+[![Repos Badge](https://badges.pufler.dev/repos/1H0)](https://github.com/1H0/)
+[![Gists Badge](https://badges.pufler.dev/gists/1H0)](https://github.com/1H0/)
+
 ## Stuff i like / i work with
 
 <p>
