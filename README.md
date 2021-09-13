@@ -33,6 +33,21 @@
   </div>
 </details>
 
+<details>
+  <summary>:package: My Toolbox</summary>
+  <br />
+  
+  - **OS**: Arch Linux, Debian SID, Mac OS
+  - **Laptops**: ThinkPad T490s, MacBook Pro 2017
+  - **Text Editors**: VScodium, vim
+  - **IDEs**: IntelliJ IDEA, WebStorm, PyCharm
+  - **Front End**: React, Vue, Svelte
+  - **Back End**: TypeScript, Java, Python
+  - **Mobile**: React Native, Ionic
+  - **Chat**: Signal, Matrix
+  - **Browser**: Firefox
+</details>
+
 <!--
 **1H0/1H0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
