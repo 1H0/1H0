@@ -3,7 +3,7 @@
 
 ## About Me
 
-<img align="right" height="375" width="500" alt="asdf" src="https://raw.githubusercontent.com/1H0/1H0/master/media/hello.png" >
+<img align="right" height="150" width="200" alt="asdf" src="https://raw.githubusercontent.com/1H0/1H0/master/media/hello.png" >
 
 - 🔭 I’m currently working as a Software Developer in the IAM Field
 - 🌱 I’m currently learning ...
