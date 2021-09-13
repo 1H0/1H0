@@ -3,6 +3,8 @@
 
 ## About Me
 
+<img align="right" height="375" width="500" alt="asdf" src="https://raw.githubusercontent.com/1H0/1H0/master/media/hello.png" >
+
 - 🔭 I’m currently working as a Software Developer in the IAM Field
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on open source projects
@@ -36,7 +38,7 @@
 <details>
   <summary>:package: My Toolbox</summary>
   <br />
-  
+
   - **OS**: Arch Linux, Debian SID, Mac OS
   - **Laptops**: ThinkPad T490s, MacBook Pro 2017
   - **Text Editors**: VScodium, vim
@@ -46,6 +48,7 @@
   - **Mobile**: React Native, Ionic
   - **Chat**: Signal, Matrix
   - **Browser**: Firefox
+
 </details>
 
 <!--
