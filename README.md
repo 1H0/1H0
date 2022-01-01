@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Lukas 👨‍💻</h1>
-<h3 align="center">I create stuff in the digital space</h3>
+<h3 align="center">I create stuff in the digital world</h3>
 
 ## About Me
 
