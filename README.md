@@ -1,14 +1,14 @@
 <h1 align="center">Hi, I'm Lukas 👨‍💻</h1>
-<h3 align="center">I'm a Software Developer</h3>
+<h3 align="center">I create stuff in the digital space</h3>
 
 ## About Me
 
 <img align="right" height="150" width="200" alt="asdf" src="https://raw.githubusercontent.com/1H0/1H0/master/media/hello.png" >
 
-- 🔭 I’m currently working as a Software Developer in the IAM Field
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on open source projects
-- 💬 Ask me about anything
+- 🔭 I'm currently working as a Software Developer in the IAM Field
+- 🌱 I'm currently learning `Java Spring`, `ThreeJS`, `UI Design` and so much more...
+- 👯 I'm looking to collaborate on open source projects or other projects that positively impact the world.
+- 💬 Ask me about anything!
 - ⚡ Fun fact: Everything in this world is either a potato or not a potato
 
 <details>
