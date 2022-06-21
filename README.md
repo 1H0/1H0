@@ -5,11 +5,13 @@
 
 <img align="right" height="150" width="200" alt="asdf" src="https://raw.githubusercontent.com/1H0/1H0/master/media/hello.png" >
 
+<!--
 - 🔭 I'm currently working as a Software Developer in the IAM Field
 - 🌱 I'm currently learning `Java Spring`, `ThreeJS`, `UI Design` and so much more...
 - 👯 I'm looking to collaborate on open source projects or other projects that positively impact the world.
 - 💬 Ask me about anything!
 - ⚡ Fun fact: Everything in this world is either a potato or not a potato
+-->
 
 <details>
   <summary>:chart_with_upwards_trend: Stats</summary>
