@@ -33,7 +33,7 @@
   <summary>:fire: GitHub Streak</summary>
   <br />
   <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=michaelbeutler&hide_border=true">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=1H0&hide_border=true">
   </div>
 </details>
 
@@ -41,14 +41,12 @@
   <summary>:package: My Toolbox</summary>
   <br />
 
-  - **OS**: Arch Linux, Debian SID, Mac OS
-  - **Laptops**: ThinkPad T490s, MacBook Pro 2017
-  - **Text Editors**: VScodium, vim
-  - **IDEs**: IntelliJ IDEA, WebStorm, PyCharm
-  - **Front End**: React, Vue, Svelte
-  - **Back End**: TypeScript, Java, Python
-  - **Mobile**: React Native, Ionic
-  - **Chat**: Signal, Matrix
+  - **OS**: NixOS, Arch Linux, Debian
+  - **Laptop**: ThinkPad x1 Carbon, ThinkPad T490s
+  - **Editors**: VSCodium, neovim
+  - **Front End**: Svelte, React, Vue
+  - **Back End**: Go, Python
+  - **Chat**: Matrix, Signal
   - **Browser**: Firefox
 
 </details>
